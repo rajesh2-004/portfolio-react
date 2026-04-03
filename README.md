@@ -1,8 +1,7 @@
 # 💼 Personal Portfolio – Uppada Rajeswara Rao
 
 This is my personal portfolio website built using **React + Vite + CSS** to showcase my projects, skills, certifications, and achievements.
-
-🔗 Live Portfolio: (add after deployment)  
+  
 🔗 GitHub Repo: https://github.com/rajesh2-004/portfolio-react
 
 ---
